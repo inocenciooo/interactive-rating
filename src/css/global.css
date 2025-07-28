@@ -49,6 +49,18 @@ body {
   padding: 3.7rem;
 }
 
-.result{
-    display: none;
+.assessment {
+  display: block;
+}
+
+.result {
+  display: none;
+}
+
+.card.submit .assessment {
+  display: none;
+}
+
+.card.submit .result {
+  display: block;
 }
