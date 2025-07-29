@@ -57,10 +57,10 @@ body {
   display: none;
 }
 
-.card.submit .assessment {
+.card.submit.numberSelected .assessment {
   display: none;
 }
 
-.card.submit .result {
+.card.submit.numberSelected .result {
   display: block;
 }

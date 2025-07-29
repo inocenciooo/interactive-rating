@@ -68,3 +68,8 @@
 .assessment #button:hover {
   background-color: var(--title-color);
 }
+
+.assessment .numbers span.select {
+  background-color: white;
+  color: var(--body-bgcolor);
+}
