@@ -40,7 +40,7 @@ Construir um componente funcional de avaliação baseado no layout proposto, con
 
 ### 🖥️ Desktop e 📱 Mobile
 
-<img src="./src/resultados/resultado-final.gif>
+<img src="./src/resultados/resultado-final.gif">
 
 ---
 
